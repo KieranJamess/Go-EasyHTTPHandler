@@ -1,4 +1,4 @@
-module github.com/KieranJamess/socialplate
+module github.com/KieranJamess/Go-EasyHTTPHandler
 
 go 1.20
 
